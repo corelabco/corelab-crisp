@@ -2,7 +2,7 @@
 
 This is a version we are forking for internal use. Nothing too special.
 
-A minimalist, responsive, and open-source theme for [Ghost](http://ghost.org) by [Kathy Qian](http://kathyqian.com). Last tested with Ghost v0.11.4.
+A minimalist, responsive, and open-source theme for [Ghost](http://ghost.org) by [Kathy Qian](http://kathyqian.com). Last tested with Ghost v1.17
 
 ![Index](https://raw.github.com/kathyqian/crisp-ghost-theme/master/screenshots/list.png)   
 
