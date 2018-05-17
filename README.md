@@ -1,4 +1,6 @@
-# Crisp
+# Crisp for Corelab
+
+This is a version we are forking for internal use. Nothing too special.
 
 A minimalist, responsive, and open-source theme for [Ghost](http://ghost.org) by [Kathy Qian](http://kathyqian.com). Last tested with Ghost v0.11.4.
 
